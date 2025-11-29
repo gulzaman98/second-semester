@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cpism xmlns:c="http://xml">
+
+    <student>
+        <name>Gulzaman</name>
+        <id>123456</id>
+        <email>123@gmail.com</email>
+        <address>Karachi</address>
+    </student>
+
+    <student>
+        <name>Gulzaman</name>
+        <id>123456</id>
+        <email>123@gmail.com</email>
+        <address>Karachi</address>
+    </student>
+
+    <student>
+        <name>Gulzaman</name>
+        <id>123456</id>
+        <email>123@gmail.com</email>
+        <address>Karachi</address>
+    </student>
+
+    <student>
+        <name>Gulzaman</name>
+        <id>123456</id>
+        <email>123@gmail.com</email>
+        <address>Karachi</address>
+    </student>
+
+    <student>
+        <name>Gulzaman</name>
+        <id>123456</id>
+        <email>123@gmail.com</email>
+        <address>Karachi</address>
+    </student>
+
+
+</cpism>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aptech SYSTEM "data.dtd"[
+
+<!ENTITY a "hello">
+<!ENTITY b  "aptech">
+
+]>
+
+
+<aptech>
+    <student>
+        <name>Ali</name>
+        <email>Ali@gmail.com</email>
+        <city>Karachi</city>
+        <phone>123456789</phone>
+    </student>
+
+
+    <student>
+        <name>Ali</name>
+        <email>Ali@gmail.com</email>
+        <city>Karachi</city>
+        <phone>123456789</phone>
+    </student>
+
+    <student>
+        <name>Ali</name>
+        <email>Ali@gmail.com</email>
+        <city>Karachi</city>
+        <phone>123456789</phone>
+    </student>
+
+</aptech>
