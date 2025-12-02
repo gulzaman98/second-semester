@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<?xml-model href="data.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 
 <aptech>
 
     <student>
         <name>Gulzaman</name>
-    0    <email>Gul@gmail.com</email>
+        <email>Gul@gmail.com</email>
         <age>27</age>
-        <image>images/1.webp</image>
+        <image>images/second.webp</image>
     </student>
 
       <student>
         <name>Saad</name>
         <email>saad@gmail.com</email>
         <age>25</age>
-         <image>images/2.webp</image>
+         <image>images/first.webp</image>
     </student> 
-
+    
       <student>
         <name>husnain</name>
         <email>has@gmail.com</email>
         <age>40</age>
-         <image>images/3.png</image>
+         <image>images/third.png</image>
     </student>
 
 </aptech>
+
