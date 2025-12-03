@@ -10,6 +10,7 @@
                     <th>Name</th>
                     <th>Email</th>
                     <th>Age</th>
+                    <th>City</th>
                     <th>image</th>
                 </tr>
 
@@ -20,6 +21,7 @@
                     <td><xsl:value-of select="email"/></td>
                     <td><xsl:value-of select="age"/></td>
                     <td><xsl:value-of select="city"/></td>
+                    <td><xsl:value-of select="image"/></td>
 
                     
 

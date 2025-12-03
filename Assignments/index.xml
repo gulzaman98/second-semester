@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-stylesheet href="style1.xsl" type="text/xsl"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
 
 <aptech>
 
@@ -11,7 +11,7 @@
 
         <city>Karachi</city>
         <city>Karachi</city>
-        <image>images/second.webp</image>
+             <image>/images/second.webp</image>
 
     </student>
 
@@ -19,14 +19,14 @@
         <name>Saad</name>
         <email>saad@gmail.com</email>
         <age>25</age>
-        <image>images/first.webp</image>
+              <image>images/first.webp</image>
     </student> 
 
       <student>
         <name>husnain</name>
         <email>has@gmail.com</email>
         <age>40</age>
-        <image>images/third.png</image>
+                 <image>images/third.png</image>
     </student>
 
 </aptech>
