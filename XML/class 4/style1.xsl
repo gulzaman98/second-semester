@@ -20,6 +20,8 @@
                     <td><xsl:value-of select="email"/></td>
                     <td><xsl:value-of select="age"/></td>
                     <td><xsl:value-of select="city"/></td>
+
+                    
                 </tr>
 
             </xsl:for-each>
