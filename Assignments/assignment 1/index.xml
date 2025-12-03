@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+
+<aptech>
+    <car>
+        <name>Toyota Corolla</name>
+        <brand>Toyota</brand>
+        <year>2022</year>
+        <image>images-ass/Toyota-corola.jpg</image>
+    </car>
+
+    <car>
+        <name>Honda Civic</name>
+        <brand>Honda</brand>
+        <year>2021</year>
+        <image>images-ass/civic.png</image>
+    </car>
+
+    <car>
+        <name>Ford Mustang</name>
+        <brand>Ford</brand>
+        <year>2023</year>
+        <image>images-ass/ford.webp</image>
+    </car>
+</aptech>
