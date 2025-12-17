@@ -1,0 +1,23 @@
+[
+    
+   {
+        "product" : 2,
+        "car_title":"Parado",
+        "car_price":123409834,
+        "color":"White"
+        
+    },
+
+ {
+        "car" : 2,
+        "car_title":"Parado",
+        "car_price":123409834,
+        "color":"White"
+    },
+     {
+        "car" : 2,
+        "car_title":"Parado",
+        "car_price":123409834,
+        "color":"White"
+     }
+]

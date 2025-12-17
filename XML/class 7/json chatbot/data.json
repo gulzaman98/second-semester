@@ -1,0 +1,6 @@
+[
+    {"question" : "hi" , "answer" : "Hello"},
+    {"question" : "name" ,"answer" : "My name is Gulzaman Chatbot"},
+    {"question" : "course" , "answer" : "You are enrolled in the DISM course"},
+    {"question" : "bye" , "answer" : "Allah Hafiz"}
+]
