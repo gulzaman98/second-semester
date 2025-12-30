@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Gulzaman",
+    "fatherName": "Muhammad Saleem",
+    "age": 20,
+    "course": "DISM",
+    "batch": "Morning",
+    "feesPaid": true
+  },
+  {
+    "id": 2,
+    "name": "Ali",
+    "fatherName": "Imran Ali",
+    "age": 22,
+    "course": "HDSE",
+    "batch": "Evening",
+    "feesPaid": false
+  },
+  {
+    "id": 3,
+    "name": "Saad",
+    "fatherName": "Naveed Ahmed",
+    "age": 21,
+    "course": "ADSE",
+    "batch": "Morning",
+    "feesPaid": true
+  },
+  {
+    "id": 4,
+    "name": "Husnain",
+    "fatherName": "Shahid Hussain",
+    "age": 23,
+    "course": "DISM",
+    "batch": "Evening",
+    "feesPaid": false
+  },
+  {
+    "id": 5,
+    "name": "Waleed",
+    "fatherName": "Rashid Mehmood",
+    "age": 19,
+    "course": "ADSE",
+    "batch": "Morning",
+    "feesPaid": true
+  }
+]
