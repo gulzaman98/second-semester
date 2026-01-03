@@ -1,0 +1,9 @@
+// Default Parameter
+function newApp(a = 20 , b = 30 ){
+    console.log("Welcome" , a + b)
+}
+
+newApp(80 , 30 ) // PARAMETER
+
+// DEFAULT PARAMETER KA KAQM HOTA AHE K HAMJO FUNCTION BNYNM US KOAK DEFAULT VALUE DAE DYN AGR HAM 
+// PARAMETERMAEVALUE DINA BHOLJYN TO DEFAULT VALUE CHAL JAYE
