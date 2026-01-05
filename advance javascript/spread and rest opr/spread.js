@@ -30,3 +30,4 @@ for(let value in mainobj){
         document.write(obj[key] , "<br>")
     }
 }
+
