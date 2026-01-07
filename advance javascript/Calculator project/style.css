@@ -79,3 +79,16 @@ td{
     width: 100%;
     cursor: pointer;
 }
+
+.btn-del{
+    background-color: #374151;
+    color: #ffffff;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    padding: 18px 0;
+    width: 100%;
+    cursor: pointer;
+}
+
+
